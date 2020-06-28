@@ -38,4 +38,3 @@ void buildPyramid(int height)
         printf("\n");
     }
 } 
-© 2020 GitHub, Inc.
